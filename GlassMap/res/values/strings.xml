@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">GlassMap</string>
+    <string name="show_map_voice_trigger">show a map</string>
+    <!-- basemap urls -->
+    <string name="WORLD_TRANSPORTATION">http://services.arcgisonline.com/ArcGIS/rest/services/Reference/World_Transportation/MapServer</string>
+    <string name="WORLD_TOPO">http://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer</string>
+
+</resources>
